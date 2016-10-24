@@ -1,4 +1,3 @@
 
 # 6ème : 
-Evolution du vélo
-![Animation1](images/evolution_velo.swf)
+Evolution du vélo : [Lien vers l' animation sur l' évolution historique du vélo](images/evolution_velo.swf)
