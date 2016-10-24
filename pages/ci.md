@@ -1,4 +1,4 @@
-# Ressources pour les travaux de préparation des activités à la maison
+# Ressources pour les travaux de préparation des activités
 
 ## 6ème : Evolution historique du vélo
 
