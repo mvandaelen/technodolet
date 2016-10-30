@@ -7,7 +7,8 @@
 
 ## En 4ème :
 
-[Analyse de la tablette tactile](images/aftablette/)
+[Analyse fonctionnelle d' une tablette](images/aftablette.png)
+[La tablette tactile](images/aftablette/)
 
 ## En 3ème :
 
