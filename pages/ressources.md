@@ -7,7 +7,7 @@
 
 ## En 4ème :
 
-[Analyse de la tablette tactile](images/aftablette/index.html)
+[Analyse de la tablette tactile](images/aftablette/)
 
 ## En 3ème :
 
