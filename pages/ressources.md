@@ -12,6 +12,7 @@
 
 * [Analyse fonctionnelle d' une tablette](images/aftablette/)
 * [Analyse fonctionnelle d' une enceinte](images/docs4/enceinte.exe)
+* Pour aller plus loin : [le cycle de vie d' un produit](https://www.youtube.com/watch?v=XNL--RhmIHM)
 
 
 
