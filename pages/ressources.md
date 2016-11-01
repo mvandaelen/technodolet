@@ -7,6 +7,8 @@
 ----------------
 ## En 5ème :
 
+* [Dépliant de présentation d' un écoquartier à Lyon](images/docs5/ecoquartierlyon.pdf)
+
 ----------------
 ## En 4ème :
 
