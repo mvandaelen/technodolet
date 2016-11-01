@@ -11,6 +11,9 @@
 ## En 4ème :
 
 * [Analyse fonctionnelle d' une tablette](images/aftablette/)
+* [Analyse fonctionnelle d' une enceinte](images/docs4/enceinte.exe)
+
+
 
 ----------------
 ## En 3ème :
