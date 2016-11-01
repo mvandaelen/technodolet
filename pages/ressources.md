@@ -7,7 +7,7 @@
 ----------------
 ## En 5ème :
 
-* [Dépliant de présentation d' un écoquartier à Lyon](images/docs5/ecoquartierlyon.pdf)
+* [Dépliant de présentation d' un écoquartier près de Toulouse](http://www.mairie-balma.fr/upload/Le_guide_ecoquartier_vidailhan.pdf)
 
 ----------------
 ## En 4ème :
