@@ -8,4 +8,4 @@ Sur cette page vous trouverez donc le lien vers l' outil "Folios" de l' ONISEP a
 
 ## Quelques métiers de l' informatique :
 
-Quelques métiers entraperçus en 5ème,4ème et 3ème lors de la séquence " Comment les ordinateurs peuvent-ils communiquer ?" [lien](pages/images/metiersinfo.html)
+Quelques métiers entraperçus en 5ème,4ème et 3ème lors de la séquence " Comment les ordinateurs peuvent-ils communiquer ?" [lien](pages/pa/info/)
