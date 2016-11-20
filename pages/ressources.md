@@ -1,4 +1,4 @@
-# Quelques documents à utiliser en classe :
+# Quelques documents à utiliser en classe ou en Devoir-maison :
 
 ## En 6ème :
 
@@ -22,7 +22,7 @@
 ----------------
 ## En 3ème :
 * Images pour le D.M. n°1 :
-![Image 1](http://s4.e-monsite.com/2011/04/02/08/resize_550_550//pollution-lumineuse-europe2.jpg)
-![Image 2](http://img.bfmtv.com/i/0/0/bba/32b3adb95c19483a3673dd941fa88.jpg)
+[Image n°1](http://s4.e-monsite.com/2011/04/02/08/resize_550_550//pollution-lumineuse-europe2.jpg)
+[Image n°2](http://img.bfmtv.com/i/0/0/bba/32b3adb95c19483a3673dd941fa88.jpg)
 
 
