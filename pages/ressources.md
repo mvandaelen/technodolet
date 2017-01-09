@@ -16,7 +16,7 @@
 * [Analyse fonctionnelle d' une enceinte](images/docs4/enceinte.exe)
 * Pour aller plus loin : [le cycle de vie d' un produit](https://www.youtube.com/watch?v=XNL--RhmIHM)
 * [Marché des tablettes tactiles](images/docs4/gfk/)
-
+* [Logiciel de contrôle pour la prise intelligente](images/AwoxSmartControl.apk)
 
 
 ----------------
