@@ -11,6 +11,7 @@
 * [Catalogue pour la création d' un SkatePark dans l' écoquartier vu en classe](images/catalogue.pdf)
 * [Tarifs du catalogue pour la création d' un SkatePark dans l' écoquartier vu en classe](images/tarifs.pdf)
 * [Document d' aide à la conception d' un skatepark](images/Aide-skateparc.pdf)
+* [Agencement 3D du skatepark](images/skatepark.skp)
 
 ----------------
 ## En 4ème :
