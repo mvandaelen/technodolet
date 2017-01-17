@@ -12,7 +12,7 @@
 
 3- Les véhicules électriques
 
-[Lien vers un document en ligne présentant les différentes familles de matériaux](http://techno-flash.com/animations/familles_materiaux/html5/familles_materiaux.html)
+[Lien vers une activité en ligne sur les différentes familles de matériaux](http://techno-flash.com/activites/6_familles_materiaux/famille_materiaux.htm)
 
 ## 5ème :
 
