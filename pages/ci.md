@@ -10,6 +10,10 @@
 [Lien vers l' animation en ligne sur l' évolution historique du vélo](images/evolution_velo.swf)
 [Lien vers l' animation pour consultation hors-ligne sur l' évolution historique du vélo](images/evolution.exe)
 
+3- Les véhicules électriques
+
+[Lien vers un document en ligne présentant les différentes familles de matériaux](http://techno-flash.com/animations/familles_materiaux/html5/familles_materiaux.html)
+
 ## 5ème :
 
 ## 4ème :
