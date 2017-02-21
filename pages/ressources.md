@@ -3,7 +3,7 @@
 ## En 6ème :
 
 * [Animation en ligne sur l' évolution historique du vélo](images/evolution_velo.swf)
-* [ Les sources d' énergie utilisées par les automobiles ](docs6/)
+* [ Les sources d' énergie utilisées par les automobiles ](docs6/index.md)
 
 ----------------
 ## En 5ème :
