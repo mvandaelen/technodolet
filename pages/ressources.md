@@ -32,4 +32,6 @@
 
 * Vidéo du métro de Lille [(lien)](images/metro.mp4)
 
+* Défi Technologique : [énoncé du défi](images/doc-ressource.pdf)
+
 
