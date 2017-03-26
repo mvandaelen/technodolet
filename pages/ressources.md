@@ -35,5 +35,6 @@
 * Vidéo du métro de Lille [(lien)](images/metro.mp4)
 
 * Défi Technologique : [énoncé du défi](images/doc-ressource.pdf)
+* Document à utiliser pour réaliser le cahier des charges du projet [Lien](images/cdcf-robot.xmind)
 
 
