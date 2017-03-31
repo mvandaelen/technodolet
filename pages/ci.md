@@ -16,6 +16,8 @@
 
 ## 5ème :
 
+1 - Découverte des systèmes automatisés. [Lien](images/systemes_automatises.pdf)
+
 ## 4ème :
 
 1 - Le cycle de vie économique d' un produit. [Lien](https://www.youtube.com/watch?v=UUQVvh-Vrig)
