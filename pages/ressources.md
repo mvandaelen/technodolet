@@ -18,6 +18,7 @@
 * Site internet à utiliser pour le D.M. sur l' évolution de l' éclairage public ([lien](http://phozagora.free.fr/?surfpage=Historique))
 
 * Document "Ligne du temps" à télécharger pour le Défi Technologique n°1 ([lien](images/ligne-du-temps.xmind))
+* Quelques informations utiles pour le Défi Technologique n°1 ([lien](images/quelques-infos.pdf))
 
 ----------------
 ## En 4ème :
