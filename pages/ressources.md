@@ -30,6 +30,7 @@
 * [Logiciel de contrôle pour la prise intelligente](images/AwoxSmartControl.apk)
 * [Animation sur la régulation du chauffage](images/chauffage.swf)
 * [Gestion automatisée de l' éclairage (vidéo)](images/eclairageauto.mp4)
+* [Document d'aide pour le tranfert d' un programme dans la carte programmable](images/aidembot.pdf)
 
 
 ----------------
