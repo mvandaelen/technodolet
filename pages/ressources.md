@@ -45,6 +45,6 @@
 * Défi Technologique : [énoncé du défi](images/doc-ressource.pdf)
 * Document à utiliser pour réaliser le cahier des charges du projet [Lien](images/cdcf-robot.xmind)
 
-* Document à utiliser pour la revue de projet n°1 [Lien](images/revue-projet.odt)
+* Document à compléter pour la revue de projet n°1 [Lien](images/revue-projet.odt)
 
 
