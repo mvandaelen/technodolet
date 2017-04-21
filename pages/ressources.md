@@ -47,5 +47,6 @@
 
 * Document à compléter pour la revue de projet n°1 [Lien](images/revue-projet.odt)
 * Lien vers le générateur de noms et d' acronymes en ligne [Lien](http://acronymcreator.net/ace.py)
+* Lien vers le générateur de logo en ligne [Lien](https://logomakr.com/)
 
 
