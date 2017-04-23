@@ -51,3 +51,7 @@
 * Détermination des fonctions techniques et recherche de solutions [Lien](images/fonctions-techniques-solutions-vide.xmind)
 
 
+----------------
+## De la 6ème à la 3ème :
+
+* Reportage sur l' impression 3d ( 13 minutes ), extrait de l' émission FutureMag d' Arte [Lien](https://www.youtube.com/watch?v=AWzjTxuhImQ)
