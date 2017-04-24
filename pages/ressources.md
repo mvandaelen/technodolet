@@ -8,7 +8,7 @@
 * Fonctionnement d' un moteur électrique ( vidéo) [Lien](images/moteur-elec.mp4)
 * L'histoire d' Internet [lien](images/histoire-internet.swf)
 * Créer une frise chronologique en ligne [Lien](http://www.frisechronos.fr/DojoMain.htm)
-* Comprendre le fonctionnement d' Internet [Lien](http://carrefour-numerique.cite-sciences.fr/ressources/flash/anims/internet/cyberbase07_home.html)
+* Comprendre le fonctionnement d' Internet [Lien](images/fonctionnement-internet.swf)
 
 ----------------
 ## En 5ème :
