@@ -6,6 +6,7 @@
 * [ Les sources d' énergie utilisées par les automobiles ](docs6/index.html)
 * Fonctionnement d' un moteur électrique : [image n°1](images/moteur-elec-6.gif) [image n°2](moteur-electrique.gif)
 * Fonctionnement d' un moteur électrique ( vidéo) [Lien](images/moteur-elec.mp4)
+* Comprendre le fonctionnement d' Internet [Lien](http://carrefour-numerique.cite-sciences.fr/ressources/flash/anims/internet/cyberbase07_home.html)
 
 ----------------
 ## En 5ème :
