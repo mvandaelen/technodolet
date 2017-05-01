@@ -14,6 +14,9 @@
 
 [Lien vers une activité en ligne sur les différentes familles de matériaux](http://techno-flash.com/activites/6_familles_materiaux/famille_materiaux.htm)
 
+4 - La Technologie dans l' habitat
+[Lien vers une vidéo présentant un système domotique](https://www.youtube.com/watch?v=9USXEB2R_yc)
+
 ## 5ème :
 
 1 - Découverte des systèmes automatisés. [Lien](images/systemes_automatises.pdf)
