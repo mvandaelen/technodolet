@@ -19,7 +19,7 @@
 * [Document d' aide à la conception d' un skatepark](images/Aide-skateparc.pdf)
 * [Agencement 3D du skatepark](images/skatepark.skp)
 
-* Site internet à utiliser pour la programmation de feux de carrefour ([lien](http://toileval.free.fr/feux/feux.htm)
+* Site internet à utiliser pour la programmation de feux de carrefour ([lien](http://toileval.free.fr/feux/feux.htm))
 
 * Document "Ligne du temps" à télécharger pour le Défi Technologique n°1 ([lien](images/ligne-du-temps.xmind))
 * Quelques informations utiles pour le Défi Technologique n°1 ([lien](images/quelques-infos.pdf))
