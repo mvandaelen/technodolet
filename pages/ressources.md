@@ -9,6 +9,7 @@
 * L'histoire d' Internet [lien](images/histoire-internet.swf)
 * Créer une frise chronologique en ligne [Lien](http://www.frisechronos.fr/DojoMain.htm)
 * Comprendre le fonctionnement d' Internet [Lien](images/fonctionnement-internet.swf)
+* Initiation en ligne à la programmation [Lien](http://lightbot.com/flash.html)
 
 ----------------
 ## En 5ème :
