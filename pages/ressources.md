@@ -25,6 +25,9 @@
 * Document "Ligne du temps" à télécharger pour le Défi Technologique n°1 ([lien](images/ligne-du-temps.xmind))
 * Quelques informations utiles pour le Défi Technologique n°1 ([lien](images/quelques-infos.pdf))
 
+* Lien vers le générateur de noms et d' acronymes en ligne [Lien](http://acronymcreator.net/ace.py)
+* Lien vers le générateur de logo en ligne [Lien](https://logomakr.com/)
+
 ----------------
 ## En 4ème :
 
