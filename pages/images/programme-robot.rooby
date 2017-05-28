@@ -1,0 +1,19 @@
+dir:8
+Ser1PwmMi:16
+Ser1PwmMa:108
+Ser1DegMi:-60
+Ser1DegMa:60
+Ser2PwmMi:60
+Ser2PwmMa:78
+Ser2DegMi:-60
+Ser2DegMa:60
+Motor1Mi:0
+Motor1Ma:95
+Motor2Mi:0
+Motor2Ma:103
+Node: 0 => State Start: Position:577,48. Son 1
+Node: 1 => State Link: Position:577,108.BGtype: 6. Son 
+State Motor1: Position:577,48.Param: '0'. Name: Moteur Droit. 
+State Motor2: Position:577,48.Param: '0'. Name: Moteur Gauche. 
+State Detector1: Position:577,48.Param: '0'. Name: Capteur Droit. Cond: EQ. 
+State Detector2: Position:577,48.Param: '0'. Name: Capteur Gauche. Cond: EQ. 
