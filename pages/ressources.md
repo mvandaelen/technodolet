@@ -2,6 +2,7 @@
 
 ## En 6ème :
 
+* [Animation en ligne : Au coeur de l' unité centrale](http://techno-flash.com/animations/unicenligne/unicenligne.html)
 * [Animation en ligne sur l' évolution historique du vélo](images/evolution_velo.swf)
 * [ Les sources d' énergie utilisées par les automobiles ](docs6/index.html)
 * Fonctionnement d' un moteur électrique : [image n°1](images/moteur-elec-6.gif) [image n°2](moteur-electrique.gif)
