@@ -3,7 +3,7 @@
 
 ## **Année 1 :** Classe de 5ème
 
-![center](images/cycle4-1.svg)
+![center](images/cycle4-1.png)
 
 -----------
 
