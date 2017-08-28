@@ -8,4 +8,4 @@
 [Classe inversée](pages/ci.md)
 [Parcours avenir](pages/metiers.md)
 [Pour les curieux ...](pages/veille.md)
-[gimmick:theme](flatly)
+[gimmick:theme](yeti)
