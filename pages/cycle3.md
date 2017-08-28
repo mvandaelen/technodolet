@@ -1,5 +1,5 @@
 # Sciences et Technologie en 6ème
 
-## Partie Technologie : Organisation prévisionnelle des activités 2016-2017
+## Partie Technologie : Organisation prévisionnelle des activités 2017-2018
 
-![center](images/6.svg)
+![center](images/cycle3.png)
