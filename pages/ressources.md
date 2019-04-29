@@ -19,9 +19,6 @@
 
 * [L' architecture bioclimatique](https://www.youtube.com/watch?v=7S1QSL_ZxnE)
 * [Dépliant de présentation d' un écoquartier près de Toulouse](http://www.mairie-balma.fr/upload/Le_guide_ecoquartier_vidailhan.pdf)
-* [Catalogue pour la création d' un SkatePark dans l' écoquartier vu en classe](images/catalogue.pdf)
-* [Tarifs du catalogue pour la création d' un SkatePark dans l' écoquartier vu en classe](images/tarifs.pdf)
-
 * Site internet à utiliser pour la programmation de feux de carrefour ([lien](http://toileval.free.fr/feux/feux.htm))
 
 * Document "Ligne du temps" à télécharger pour le Défi Technologique n°1 ([lien](images/ligne-du-temps.xmind))
