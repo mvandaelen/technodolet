@@ -21,8 +21,6 @@
 * [Dépliant de présentation d' un écoquartier près de Toulouse](http://www.mairie-balma.fr/upload/Le_guide_ecoquartier_vidailhan.pdf)
 * [Catalogue pour la création d' un SkatePark dans l' écoquartier vu en classe](images/catalogue.pdf)
 * [Tarifs du catalogue pour la création d' un SkatePark dans l' écoquartier vu en classe](images/tarifs.pdf)
-* [Document d' aide à la conception d' un skatepark](images/Aide-skateparc.pdf)
-* [Agencement 3D du skatepark](images/skatepark.skp)
 
 * Site internet à utiliser pour la programmation de feux de carrefour ([lien](http://toileval.free.fr/feux/feux.htm))
 
